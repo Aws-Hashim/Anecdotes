@@ -1,2 +1,1 @@
-# Anecdotes
-# Anecdotes-React
+# Anecdotes.
